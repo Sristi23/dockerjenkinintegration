@@ -23,6 +23,5 @@
     </dependency>
   </dependencies>
   
-  <build>
-  <finalName>dockerjenkinintegration</finalName></build>
+  
 </project>
